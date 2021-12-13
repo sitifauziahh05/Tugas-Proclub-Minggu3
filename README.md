@@ -1,5 +1,5 @@
 # Tugas-Proclub-Minggu3
-NAMA : Siti Fauziah
+Nama : Siti Fauziah
 
 NIM : 6706210130
 
